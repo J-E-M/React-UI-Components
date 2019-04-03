@@ -1,0 +1,26 @@
+.white-btn {
+  text-align: center;
+  line-height: 100px;
+  font-size: 50px;
+  width: 116.6px;
+  background-color: white;
+}
+
+.red-btn {
+  background: darkred;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 50px;
+  width: 100px;
+}
+
+.big-button {
+
+  text-align: center;
+  line-height: 100px;
+  font-size: 50px;
+  width: 350px;
+  background-color: white;
+
+}
